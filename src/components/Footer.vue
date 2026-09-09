@@ -1,7 +1,7 @@
 <template>
   <footer class="site-footer">
     <div class="footer-content">
-      <p>&copy; 2023 Central Philippine University. All Rights Reserved.</p>
+      <p>&copy; 2026 ByteBoulevard. All Rights Reserved.</p>
     </div>
   </footer>
 </template>

@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar">
     <div class="nav-container">
-      <router-link to="/" class="brand">Central Philippine University</router-link>
+      <router-link to="/" class="brand">CByteBoulevard</router-link>
       <div class="nav-links">
         <router-link to="/">Home</router-link>
         <router-link to="/#about">About</router-link>

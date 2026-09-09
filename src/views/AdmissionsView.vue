@@ -162,7 +162,7 @@ Replace with your institution's actual schedule of fees.
 </main>
 
 <footer class="site-footer">
-© 2026 University Name. All rights reserved.
+© 2026 ByteBoulevard. All rights reserved.
 </footer>
 </div>
 </template>
