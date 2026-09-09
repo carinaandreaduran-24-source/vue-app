@@ -19,7 +19,7 @@
       </div>
       <div class="hero-right">
         <div class="gradient-card">
-          <img src="@/assets/cpu_logo.png" alt="CPU Seal" class="card-seal" />
+          <img src="@/assets/logo.png" alt="CPU Seal" class="card-seal" />
           <h2 class="card-title">ByteBoulevard<br/>Lab</h2>
           <hr class="card-line" />
           <p class="card-quote">"A Heritage of Excellence,<br/>A Future of Faith"</p>
