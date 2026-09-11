@@ -9,6 +9,9 @@
         <router-link to="/#academics">Academics</router-link>
         <router-link to="/#campus-life">Campus Life</router-link>
         <router-link to="/#news">News</router-link>
+        <router-link to="/sample-data">Sample Data</router-link>
+        <router-link to="/sample-methods">Sample Methods</router-link>
+        <router-link to="/sample-vmodel">Sample V-Model</router-link>
       </div>
     </div>
   </nav>
