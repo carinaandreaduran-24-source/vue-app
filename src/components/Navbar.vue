@@ -28,7 +28,7 @@
 }
 
 .nav-container {
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 24px;
   display: flex;
@@ -45,7 +45,16 @@
 
 .nav-links {
   display: flex;
-  gap: 20px;
+  align-items: center;
+  gap: 16px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li{
+  display: flex;
+  align-items: center;
 }
 
 .nav-links a {
@@ -53,10 +62,18 @@
   color: #475569;
   font-size: 14px;
   font-weight: 600;
+  white-space: nowrap;
+  padding: 4px 0;
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+  color: #0f172a;
 }
 
 .nav-links a.router-link-exact-active {
   color: #0f172a;
   border-bottom: 2px solid #0f172a;
+  font-weight: 700;
 }
 </style>
